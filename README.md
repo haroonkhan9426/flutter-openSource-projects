@@ -4,7 +4,7 @@ This section has projects that have just a basic UI and simple logic with locali
 - [TasbeehCounter App](https://github.com/uzairleo/tasbeeh_counter2)
 - [Reading Local Json Data](https://github.com/uzairleo/flutter_json-storage-)
 
-
 ## Level-2: Intermediate
+- [GoogleBlessing-App](https://github.com/uzairleo/GoogleBlessings)
 ## Level-3: Advance
 ## Level-4: Very Complex
