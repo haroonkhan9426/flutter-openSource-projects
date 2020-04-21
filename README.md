@@ -17,4 +17,4 @@ This section has projects that have just a basic UI and simple logic with locali
 ## Contributors List:
 This section includes the list of all main contributors with special thanks for contributing to the open source community.
 - [Haroon Khan](https://github.com/haroonkhan9426) the creator and main contributor.
-- [Uzair Leo] (https://github.com/uzairleo) the very first contributor.
+- [Uzair Leo](https://github.com/uzairleo) the very first contributor.
