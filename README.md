@@ -5,7 +5,10 @@ This section has projects that have just a basic UI and simple logic with locali
 - [Todo-List-App](https://github.com/uzairleo/Flutter_TaskList-anotherSmartApproach-)
 - [PdfView-Flutter](https://github.com/uzairleo/Flutter_pdf_veiwer_leo)
 - [StopWatch-App](https://github.com/uzairleo/flutter_Leo_Stopwatch)
+- [TasbeehCounter App](https://github.com/uzairleo/tasbeeh_counter2)
+- [Reading Local Json Data](https://github.com/uzairleo/flutter_json-storage-)
 
 ## Level-2: Intermediate
+- [GoogleBlessing-App](https://github.com/uzairleo/GoogleBlessings)
 ## Level-3: Advance
 ## Level-4: Very Complex
