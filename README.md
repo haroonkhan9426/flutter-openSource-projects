@@ -7,6 +7,8 @@ This section has projects that have just a basic UI and simple logic with locali
 - [StopWatch-App](https://github.com/uzairleo/flutter_Leo_Stopwatch)
 - [TasbeehCounter App](https://github.com/uzairleo/tasbeeh_counter2)
 - [Reading Local Json Data](https://github.com/uzairleo/flutter_json-storage-)
+- [Flutter-SplashScreen](https://github.com/uzairleo/flutter_splashscreen_tutorial)
+- [Top10-Flutter-Widget](https://github.com/uzairleo/top10_flutter_widget)
 
 ## Level-2: Intermediate
 - [GoogleBlessing-App](https://github.com/uzairleo/GoogleBlessings)
