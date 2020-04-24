@@ -13,7 +13,7 @@ This section has projects that have just a basic UI and simple logic with locali
 ## Level-2: Intermediate
 - [GoogleBlessing-App](https://github.com/uzairleo/GoogleBlessings)
 - [flutter-animation](https://github.com/uzairleo/flutter_transitions-all-)
-- [BLoC App](https://github.com/UmairJibran/flutter-bloc.git) [Explanation](https://medium.com/@umairjibran/flutter-bloc-the-simplest-approach-45ce9401a2dc)
+- [BLoC App](https://github.com/UmairJibran/flutter-bloc.git)
 ## Level-3: Advance
 ## Level-4: Very Complex
 
