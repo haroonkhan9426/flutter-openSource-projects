@@ -14,6 +14,7 @@ This section has projects that have just a basic UI and simple logic with locali
 - [GoogleBlessing-App](https://github.com/uzairleo/GoogleBlessings)
 - [flutter-animation](https://github.com/uzairleo/flutter_transitions-all-)
 - [BLoC App](https://github.com/UmairJibran/flutter-bloc.git)
+- [Firebase CRUD Operations](https://github.com/UmairJibran/firebase-crud.git)
 ## Level-3: Advance
 ## Level-4: Very Complex
 
