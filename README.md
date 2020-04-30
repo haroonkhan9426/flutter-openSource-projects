@@ -16,6 +16,8 @@ This section has projects that have just a basic UI and simple logic with locali
 - [flutter-animation](https://github.com/uzairleo/flutter_transitions-all-)
 - [BLoC App](https://github.com/UmairJibran/flutter-bloc.git)
 - [Firebase CRUD Operations](https://github.com/UmairJibran/firebase-crud.git)
+- [Flutter homeWifi](https://github.com/uzairleo/uzairleo-homeWifi)
+
 ## Level-3: Advance
 - [Classic-SnakeGame-flutter](https://github.com/uzairleo/leo_snake_game)
 
