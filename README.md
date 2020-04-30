@@ -17,6 +17,8 @@ This section has projects that have just a basic UI and simple logic with locali
 - [BLoC App](https://github.com/UmairJibran/flutter-bloc.git)
 - [Firebase CRUD Operations](https://github.com/UmairJibran/firebase-crud.git)
 ## Level-3: Advance
+- [Classic-SnakeGame-flutter](https://github.com/uzairleo/leo_snake_game)
+
 ## Level-4: Very Complex
 
 
