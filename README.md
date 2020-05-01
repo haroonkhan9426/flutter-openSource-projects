@@ -10,6 +10,7 @@ This section has projects that have just a basic UI and simple logic with locali
 - [Flutter-SplashScreen](https://github.com/uzairleo/flutter_splashscreen_tutorial)
 - [Top10-Flutter-Widget](https://github.com/uzairleo/top10_flutter_widget)
 - [Meals Application](https://github.com/UmairJibran/meal_app)
+- [Expense Sheet](https://github.com/UmairJibran/dailyExpenseSheet)
 
 ## Level-2: Intermediate
 - [GoogleBlessing-App](https://github.com/uzairleo/GoogleBlessings)
@@ -26,3 +27,4 @@ This section has projects that have just a basic UI and simple logic with locali
 This section includes the list of all main contributors with special thanks for contributing to the open source community.
 - [Haroon Khan](https://github.com/haroonkhan9426) the creator and main contributor.
 - [Uzair Leo](https://github.com/uzairleo) the very first contributor.
+- [Umair Jibran](https://github.com/UmairJibran) 
