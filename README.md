@@ -13,11 +13,13 @@ This section has projects that have just a basic UI and simple logic with locali
 - [Expense Sheet](https://github.com/UmairJibran/dailyExpenseSheet)
 
 ## Level-2: Intermediate
+This section has projects with an intermediate level UI and Logic or basic implementation of flutter state-management architectures.
 - [GoogleBlessing-App](https://github.com/uzairleo/GoogleBlessings)
 - [flutter-animation](https://github.com/uzairleo/flutter_transitions-all-)
 - [BLoC App](https://github.com/UmairJibran/flutter-bloc.git)
 - [Firebase CRUD Operations](https://github.com/UmairJibran/firebase-crud.git)
 ## Level-3: Advance
+This section has projects with an advance custom UI, Flutter architectures, Advance animation projects and so on.
 - [Classic-SnakeGame-flutter](https://github.com/uzairleo/leo_snake_game)
 
 ## Level-4: Very Complex
