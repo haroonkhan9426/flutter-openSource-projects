@@ -19,6 +19,8 @@ This section has projects with an intermediate level UI and Logic or basic imple
 - [BLoC App](https://github.com/UmairJibran/flutter-bloc.git)
 - [Firebase CRUD Operations](https://github.com/UmairJibran/firebase-crud.git)
 - [Flutter homeWifi](https://github.com/uzairleo/uzairleo-homeWifi)
+- [Flutter Animated Login](https://github.com/uzairleo/flutter_Animated_Login)
+
 
 ## Level-3: Advance
 This section has projects with an advance custom UI, Flutter architectures, Advance animation projects and so on.
