@@ -11,6 +11,8 @@ This section has projects that have just a basic UI and simple logic with locali
 - [Top10-Flutter-Widget](https://github.com/uzairleo/top10_flutter_widget)
 - [Meals Application](https://github.com/UmairJibran/meal_app)
 - [Expense Sheet](https://github.com/UmairJibran/dailyExpenseSheet)
+- [Xylophone](https://github.com/haroonkhan9426/Xylophone)
+
 
 ## Level-2: Intermediate
 This section has projects with an intermediate level UI and Logic or basic implementation of flutter state-management architectures.
