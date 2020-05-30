@@ -1,5 +1,5 @@
 ## Level-1: Basics
-This section has projects that have just a basic UI and simple logic with localized test data.
+This section has projects with a basic UI, simple logic and constant test data.
 - [Quizz App](https://github.com/haroonkhan9426/Quizzler)
 - [SimpleInterest-Calc](https://github.com/uzairleo/Simple_interest_calc)
 - [Todo-List-App](https://github.com/uzairleo/Flutter_TaskList-anotherSmartApproach-)
@@ -30,10 +30,11 @@ This section has projects with an advance custom UI, Flutter architectures, Adva
 - [Classic-SnakeGame-flutter](https://github.com/uzairleo/leo_snake_game)
 
 ## Level-4: Very Complex
+This section has production quality apps with complex UI, best architecture, clean, optimized and extendable code base.
 
 
 ## Contributors List:
 This section includes the list of all main contributors with special thanks for contributing to the open source community.
 - [Haroon Khan](https://github.com/haroonkhan9426) the creator and main contributor.
 - [Uzair Leo](https://github.com/uzairleo) the very first contributor.
-- [Umair Jibran](https://github.com/UmairJibran) 
+- [Umair Jibran](https://github.com/UmairJibran) the very second contributor.
