@@ -23,6 +23,7 @@ This section has projects with an intermediate level UI and Logic or basic imple
 - [Firebase CRUD Operations](https://github.com/UmairJibran/firebase-crud.git)
 - [Flutter homeWifi](https://github.com/uzairleo/uzairleo-homeWifi)
 - [Flutter Animated Login](https://github.com/uzairleo/flutter_Animated_Login)
+- [Flutter Simple Calculator App](https://github.com/haroonkhan9426/Calculator-App)
 
 
 ## Level-3: Advance
