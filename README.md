@@ -33,6 +33,7 @@ This section has projects with an advance custom UI, Flutter architectures, Adva
 ## Level-4: Very Complex
 This section has production quality apps with complex UI, best architecture, clean, optimized and extendable code base.
 
+- [leo-ML(tflite)-ColorDetector](https://github.com/uzairleo/leo-ML-tflite-flutter)
 
 ## Contributors List:
 This section includes the list of all main contributors with special thanks for contributing to the open source community.
