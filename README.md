@@ -29,6 +29,7 @@ This section has projects with an intermediate level UI and Logic or basic imple
 ## Level-3: Advance
 This section has projects with an advance custom UI, Flutter architectures, Advance animation projects and so on.
 - [Classic-SnakeGame-flutter](https://github.com/uzairleo/leo_snake_game)
+- [Flutter_StateManagement_Architectures](https://github.com/uzairleo/stateManagement_techniques)
 
 ## Level-4: Very Complex
 This section has production quality apps with complex UI, best architecture, clean, optimized and extendable code base.
